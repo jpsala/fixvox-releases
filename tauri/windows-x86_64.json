@@ -1,11 +1,11 @@
 {
-  "version": "0.1.7",
-  "notes": "Fixvox Tauri update",
-  "pub_date": "2026-09-05T01:35:08.087Z",
+  "version": "0.1.8",
+  "notes": "Sincronización de acciones entre computadoras de la misma cuenta.",
+  "pub_date": "2026-09-06T00:13:02.714Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFowR2xPQURGNU5kRUpLS1NzRks1dEpYUTlMY1JDVU9vSlpkZFlsUkN3M2U2WTF4RlBla3FqcWV3bVV4SzYzRXpEdEF1c2x4NDMrNFU3TDNkdXFseVZMdVpSbFRERUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTcyMDk4CWZpbGU6Rml4dm94IFRhdXJpXzAuMS43X3g2NC1zZXR1cC5leGUKNGRZY3NvNkVmd0xlLzNXZ3o0RGVUQUEyVWJmYmdxbUZpUUJkSTFjOXpQRE9SNXB2S1Jwa2Q5VUtCVlRaV09lcXlTR3BERTNGOWx5MVBvdFJMU3Q0Q1E9PQo=",
-      "url": "https://github.com/jpsala/fixvox-desktop-releases/releases/download/fixvox-tauri-v0.1.7-20260905013035/Fixvox-Tauri-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFowR2xPQURGNUJoOGV2a2Fkb1B2bm9Wb1dZNDJPdGJXZFJ5czZ5Z3dkazN3b2RULzdDWUpQUHo2NnJkY3duTFBIQmNIRk9sUjNlT1Zkakh0ZEVodjcrbnZWT2ZtUHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjUzNTc2CWZpbGU6Rml4dm94IFRhdXJpXzAuMS44X3g2NC1zZXR1cC5leGUKRm1TakphdGhwRFAzVjRZR3RDeWtkWm00TzV3R1V1eHovUm13Y3Z3SjdSalQrTGhzUStRRG5tS2FvNU9zWnNRYXZiR1pPWjVnNGJxR0Z6d1lNQ29DQVE9PQo=",
+      "url": "https://github.com/jpsala/fixvox-desktop-releases/releases/download/fixvox-tauri-v0.1.8-20260906000100/Fixvox-Tauri-Setup.exe"
     }
   }
 }
