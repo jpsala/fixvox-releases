@@ -1,11 +1,11 @@
 {
-  "version": "0.1.12",
+  "version": "0.1.13",
   "notes": "Fixvox Tauri update",
-  "pub_date": "2026-09-10T01:13:53.234Z",
+  "pub_date": "2026-09-10T13:54:56.624Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFowR2xPQURGNUhhTm9wb0dZNmptRUxPZC9kT0pSWHJhM2V4K1RtY1RjOHhRamw0TDk2ZWhwL2s3TENTZ0dVKzZVQS9xT0NOckdpeEl5QzhncHd4RlJ0dm02Z0ZSRXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDAyODIzCWZpbGU6Rml4dm94IFRhdXJpXzAuMS4xMl94NjQtc2V0dXAuZXhlCllIaW1pU0xCZlB2Vlc5OUZ4K2JwanVHZTdVcjQ1cHBLK0J5RmxTaWMvUFVtVmZvMWFCS1huSW1HcVFhNk9vNUtOYXo1L0NwQTF3aGxZMC85ckhTMEFnPT0K",
-      "url": "https://github.com/jpsala/fixvox-desktop-releases/releases/download/fixvox-tauri-v0.1.12-20260910011116/Fixvox-Tauri-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFowR2xPQURGNVBkdDdBMDNacW5FbnQzSThpS2VraEhJNTRBM2ZMeDFuTmRMMGFXT2pUdGtza01xdklLRGJLMlVJVERVZjBlbHMweFVsVDlZL242V1VlMmZLWWV6WEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDQ4NDY1CWZpbGU6Rml4dm94IFRhdXJpXzAuMS4xM194NjQtc2V0dXAuZXhlClBlQmRuVjZkcGdqOTFvcmk4TysyeTI4TkZDZnV0YkdERFZWb2VKUXZOSm9FaUtjMVBOYmljK2VIdjcxRHFJNXBwWmxsKzl6b2NtS1ozL2k5LzNza0RnPT0K",
+      "url": "https://github.com/jpsala/fixvox-desktop-releases/releases/download/fixvox-tauri-v0.1.13-20260910134824/Fixvox-Tauri-Setup.exe"
     }
   }
 }
