@@ -1,11 +1,11 @@
 {
-  "version": "0.1.22",
-  "notes": "Stopped WASAPI stream reuse enabled by default, with explicit opt-out and bounded idle retention.",
-  "pub_date": "2026-09-24T13:10:38.215Z",
+  "version": "0.1.23",
+  "notes": "Fixvox Tauri update",
+  "pub_date": "2026-09-24T16:47:32.894Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFowR2xPQURGNUh2N2xtYklTN0N5UVZqUzAwenhTQkxyRHo4OFpNVTIvcGFHU0doZzk4YTlGL2F2RmtIazRJaUVDQzBnTkRkWWR0ajIvTkxXamwyaWJtS1FYOTZjNkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjU1NDAzCWZpbGU6Rml4dm94IFRhdXJpXzAuMS4yMl94NjQtc2V0dXAuZXhlCnhRbWxIQTcxVGhTRWFQM3RNUWs2Rzk3ejFRWHhKdFBwVFdSYlo5Ull3OUNLRlJJWkJrdWJzSzVUL0pQWE5jTWRCNStoaUNHYVh4SERKRHhrLyt3YUF3PT0K",
-      "url": "https://github.com/jpsala/fixvox-desktop-releases/releases/download/fixvox-tauri-v0.1.22-20260924130627/Fixvox-Tauri-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFowR2xPQURGNUdtclFCb0o0RzhBK05nUGQzbmlNMGtPbUJLUTN0YVQ3Y3hrcUZJWjVHVXArSmR0WHB4Tm94UkJPTXVod2FWWnRnL0RHQjQyYVhBY2k5SE9USmNwNXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjY4NDExCWZpbGU6Rml4dm94IFRhdXJpXzAuMS4yM194NjQtc2V0dXAuZXhlClhKb2R6anBsdGYvZmNzS0Evb2F2bTlPSUNtTmRYcWh5RnpRbnBLTit5RVFuaHRiSTdQUXd0UHQrMWc4WFNaa0F4Ymk1M0xmbVRCVER2NjFUQU15N0JBPT0K",
+      "url": "https://github.com/jpsala/fixvox-desktop-releases/releases/download/fixvox-tauri-v0.1.23-20260924164056/Fixvox-Tauri-Setup.exe"
     }
   }
 }
