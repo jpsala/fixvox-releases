@@ -1,11 +1,11 @@
 {
-  "version": "0.1.19",
-  "notes": "Recoverable dictation history retries",
-  "pub_date": "2026-09-22T14:13:21.980Z",
+  "version": "0.1.20",
+  "notes": "Fixvox Tauri update",
+  "pub_date": "2026-09-24T01:22:25.696Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFowR2xPQURGNUxvYXlQeWUzbEN2VVBKc1hERUtsWkhlSDc3UVFadllySUYxemFvMTNsRWkxWnlDdVUvVXNmc2hDYnJKbDQ5bUlIYXFTV1ZtVEVZNEg3V08yZUMrR0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDg2MzY5CWZpbGU6Rml4dm94IFRhdXJpXzAuMS4xOV94NjQtc2V0dXAuZXhlCjBKMTkzQWVURzJIMXRQT3FQRFNyL0pYcW1UWTRrTmdYZEEvcVJBUDFnMk5sQ2lNQkFIV3EyMytDSUZzTHNLdTdkVm5WaU1iSWNQRXUyNlV2bEFNRkF3PT0K",
-      "url": "https://github.com/jpsala/fixvox-desktop-releases/releases/download/fixvox-tauri-v0.1.19-20260922140932/Fixvox-Tauri-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFowR2xPQURGNVAzVjBYVGYwaExFVHdNRDhEYjliUEhReXJoMFNIVFkxY1FobkZTVXZlYk1Ga3lNbU5zUXNNRnhQbkl2aURRb1dUSnBpWTBXTU5ySXlVNmpMZmZtaWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjEyOTE1CWZpbGU6Rml4dm94IFRhdXJpXzAuMS4yMF94NjQtc2V0dXAuZXhlCmh6VXlyVzFqSldxR2d5OWc2WmlRNzBFRzFoMlZFQ2NYVzA3U2RjenNMWTNQUk1CM1c3VGNlWE9DbUw0WmZhUFEvWU1mQjZ0UE5DOGxWZlM4ZVNnTkRBPT0K",
+      "url": "https://github.com/jpsala/fixvox-desktop-releases/releases/download/fixvox-tauri-v0.1.20-20260924011906/Fixvox-Tauri-Setup.exe"
     }
   }
 }
