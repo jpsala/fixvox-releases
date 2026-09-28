@@ -1,11 +1,11 @@
 {
-  "version": "0.1.26",
-  "notes": "Fixvox Tauri update",
-  "pub_date": "2026-09-27T05:03:33.621Z",
+  "version": "0.1.27",
+  "notes": "Isolate companion snapshots and coordinate native window presentation.",
+  "pub_date": "2026-09-28T11:33:19.899Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFowR2xPQURGNUJ3dUpxVHp3VjJ5VG11YjdDRWVZM0htaWN4RElOOUFUVzdKSGcwNTl2Y1RBQWNPN2FrbGdPcTkxTUw3SDJ2L1NJSGtLMno3RkpoZ0J2K0kwQ1pvZFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDg1MzcwCWZpbGU6Rml4dm94IFRhdXJpXzAuMS4yNl94NjQtc2V0dXAuZXhlClB1Y2RjZWpiUEhCeFNBWGtJUnhkeWc1alFIMk1qUElXUXdMOERvSmtlMXY1TnczR0dmSUN6MXA0akswZVRiNStrbC9FbkFzdEUyM09XbFcyTVVDT0J3PT0K",
-      "url": "https://github.com/jpsala/fixvox-desktop-releases/releases/download/fixvox-tauri-v0.1.26-20260927045632/Fixvox-Tauri-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFowR2xPQURGNU1UMHJVV014ZXV1T1FCbFJWNyt5aTRENmoxaXl1TGtKQU9vbFVpUEVCSys4ZkV5UWFOTmw5bk0xYzU1bDFPQ20vNXYzK2dEUkVuOExsaldwdGZ6SEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTk1MTg3CWZpbGU6Rml4dm94IFRhdXJpXzAuMS4yN194NjQtc2V0dXAuZXhlClorV3JMK1dWaE96SVUyQkV5U085TWloc0RXU1lvTlNBamJYWUhlR1BKWmk3bzVnRFVIOFVoOEJNbHZPZE9SQ3E5QURXNlQ0eFdCWjRhbmFaZ2lnaEJRPT0K",
+      "url": "https://github.com/jpsala/fixvox-desktop-releases/releases/download/fixvox-tauri-v0.1.27-20260928112948/Fixvox-Tauri-Setup.exe"
     }
   }
 }
